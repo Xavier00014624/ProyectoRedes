@@ -8,11 +8,12 @@ El proyecto incluye el diseño físico y lógico de la red, subneteo VLSM por de
 
 ## Integrantes del equipo
 
-- Christopher
-- Héctor
-- Diego
-- Leonel
-- Xavier
+Héctor Ernesto Argueta Constanza             	           	00012424
+Leonel Alexander Cañas Rodríguez             	           	00145424
+Xavier Ernesto García Villacorta   	                          00014624
+Diego Armando Jacobo Cornejo                  	           	00043719
+Christopher Alejandro Madrid Arrazabal    	             00063824 
+
 
 ## Objetivo general
 
